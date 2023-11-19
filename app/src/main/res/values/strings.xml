@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Iris Classifier</string>
+    <string name="iris_classifier">Iris Classifier</string>
+    <string name="sepal_length">Sepal Length</string>
+    <string name="sepal_width">Sepal Width</string>
+    <string name="petal_length">Petal Length</string>
+    <string name="petal_width">Petal Width</string>
+    <string name="predict">Predict</string>
+    <string name="the_classification">The Classification</string>
+
+    <!-- Iris Setosa Descriptions -->
+    <string name="iris_setosa_description">
+        Iris Setosa: Distinctive appearance, narrow petals, white to pink/purple.
+    </string>
+
+    <!-- Iris Versicolour Descriptions -->
+    <string name="iris_versicolor_description">
+        Iris Versicolor: Showy flowers, blue/violet with broad petals.
+    </string>
+
+    <!-- Iris Virginica Descriptions -->
+    <string name="iris_virginica_description">
+        Iris Virginica: Elegant flowers, shades of blue/lavender, strong fragrance.
+    </string>
+
+</resources>
